@@ -234,6 +234,10 @@ input, select, textarea {
 		font-size: 0.7em;
 	}
 
+	/* #header h1 {
+		font-size: 50px;
+	} */
+
 	.formcontainer{
 		width: 100%;
 	}
